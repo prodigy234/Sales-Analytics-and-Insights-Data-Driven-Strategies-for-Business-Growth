@@ -191,7 +191,7 @@ plt.show()
 ---
 
 ## **Author**
-- **Name:** Kajola Gbenga
+- **Name:** Kajola Gbenga Adewale
 - **Role:** Certified Data Scientist / Certified Data Analyst / Certified SQL Programmer
 - **Email:** k.gbenga234@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kajolagbenga
