@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 # Streamlit App Title
-st.title("📊 Sales Data Analysis Dashboard")
+st.title("📊 iNICHOLAS Store Sales Data Analysis Dashboard")
 
 # Automatically load dataset (no upload needed)
 DATA_PATH = "sales_data.csv"
@@ -248,3 +248,29 @@ try:
         )
 except FileNotFoundError:
     st.error("❌ Word report file not found. Please ensure 'Sales_Analysis_Report.docx' is in the same directory as this script.")
+
+
+# -----------------------------------------------
+# RAW DATA
+# -----------------------------------------------
+
+st.markdown("---")
+st.markdown("# 👨‍💻 About the Developer")
+# Display developer image
+st.image("my_image.jpg", width=150)
+st.markdown("## **Kajola Gbenga**")
+
+st.markdown(
+    """
+📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer | Mobile App Developer | AI/ML Engineer
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
+📜 [View My Certifications & Licences](https://www.datacamp.com/portfolio/kgbenga234)  
+💻 [GitHub](https://github.com/prodigy234)  
+🌐 [Portfolio](https://kajolagbenga.netlify.app/)  
+📧 k.gbenga234@gmail.com
+"""
+)
+
+
+st.markdown("✅ Created using Python and Streamlit")
