@@ -4,6 +4,10 @@ This project is a comprehensive **Sales Data Analysis Dashboard** built with **S
 
 ---
 
+This Sales Analytics Dashboard which I built for INICHOLAS Store can be accessed live on streamlit [Here](https://inicholas.streamlit.app/)
+
+---
+
 ## 📬 Author
 
 **Gbenga Kajola**
@@ -40,7 +44,7 @@ Sales Analytics and Insights Data-Driven Strategies for Business Growth/
 ├── sales_analytics.ipynb             # Jupyter Notebook 
 ├── requirements.txt                  # Installation of Dependencies
 ├── README_Sales_Analytics.docx       # README in docx format
-└── README.md                         # Project documentation
+└── README.md                         # Project documentation in the actual README format
 ```
 
 ---
@@ -150,19 +154,6 @@ At the bottom of the dashboard, a Word document can be downloaded containing sum
 
 ---
 
-## 👨‍💻 Author
-
-**Kajola Gbenga**  
-Data Analyst | AI Developer | Streamlit Expert
-
----
-
-## 📬 Contact
-
-- Email: kajolagbenga@example.com  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-
----
 
 ## 📌 License
 
